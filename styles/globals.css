@@ -1,9 +1,11 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*>*{
+  font-family: 'Ubuntu', sans-serif;
 }
 
 a {
@@ -13,4 +15,34 @@ a {
 
 * {
   box-sizing: border-box;
+  background-color: #f5eded;
+}
+
+.input-text{
+  @apply mt-1 block w-60 px-3 py-2 bg-white border-slate-300 rounded-full text-sm shadow-md placeholder-slate-500 focus:outline-none focus:border-sky-500 focus:ring-1
+}
+.icons{
+  color:#888888
+}
+
+.linkedin:hover{
+color:#0072b1;
+}
+
+.twitter:hover{
+color:#00acee;
+}
+
+.github:hover{
+color:#171515;
+}
+.loader{
+  @apply border-gray-200 rounded-full border-4 ease-linear h-10 w-10;
+  border-top-color: #363ce0;
+  animation: spinner 1.2s linear infinite;
+}
+
+@keyframes spinner{
+  0% { transform: rotate(0deg);}
+  100% { transform: rotate(360deg);}
 }
