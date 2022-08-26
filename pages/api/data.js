@@ -40,7 +40,7 @@ export default {
       subtitle:
         "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       category: "Design, Programming",
-      img: "/images/img3.png",
+      img: "/images/img3.jpg",
       description: `
             Donec quam neque, accumsan et diam rutrum, ultrices maximus sem. Duis dignissim eget leo in scelerisque. Nunc sodales sed turpis vel bibendum. Etiam eget magna quam. In tempus porta consequat. Proin felis mi, tristique vel faucibus a, placerat ac ipsum.
             `,
@@ -57,7 +57,7 @@ export default {
       subtitle:
         "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       category: "Design, Programming",
-      img: "/images/img4.png",
+      img: "/images/img4.jpg",
       description: `
             Donec quam neque, accumsan et diam rutrum, ultrices maximus sem. Duis dignissim eget leo in scelerisque. Nunc sodales sed turpis vel bibendum. Etiam eget magna quam. In tempus porta consequat. Proin felis mi, tristique vel faucibus a, placerat ac ipsum.
             `,
@@ -74,7 +74,7 @@ export default {
       subtitle:
         "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       category: "Design, Programming",
-      img: "/images/img5.png",
+      img: "/images/img5.jpg",
       description: `
             Donec quam neque, accumsan et diam rutrum, ultrices maximus sem. Duis dignissim eget leo in scelerisque. Nunc sodales sed turpis vel bibendum. Etiam eget magna quam. In tempus porta consequat. Proin felis mi, tristique vel faucibus a, placerat ac ipsum.
             `,
@@ -228,7 +228,7 @@ export default {
       subtitle:
         "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       category: "Design, Programming",
-      img: "/images/articles/posts/img2.png",
+      img: "/images/articles/posts/img6.png",
       description: `
             Donec quam neque, accumsan et diam rutrum, ultrices maximus sem. Duis dignissim eget leo in scelerisque. Nunc sodales sed turpis vel bibendum. Etiam eget magna quam. In tempus porta consequat. Proin felis mi, tristique vel faucibus a, placerat ac ipsum.
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, qui ea assumenda illo quidem 
